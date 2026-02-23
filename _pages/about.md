@@ -23,6 +23,8 @@ My research focuses on developing algorithms and their principles that can be us
 
 My core pursuit is to apply theoretical models to improve model capabilities. Theoretically, I trace this back to two main approaches: firstly, studying the physics of AI—that is, what kind of model will exhibit what kind of capabilities on what kind of data; secondly, studying the decision-making interpretation pathways of the model, including the model's main computational loops and the dependence of model decisions on inputs. The former provides general insights that can be used to improve training strategies, while the latter provides effective regularization schemes. I believe that all the black-box behaviors of a model, especially the generalization of higher-order capabilities, are in a state of decoupling or awaiting decoupling. Successful decoupling will drive the further development of artificial intelligence systems.
 
+In addition, I have a thorough understanding of linguistics and classical Chinese poetry. My personal poetry works can be found on the website <https://huaiqi.site>. If you are interested, please feel free to contact me.
+
 I am open to research collaborations. If my research or ideas resonate with you, or if you have any interesting thoughts to share, please don't hesitate to contact me.
 
 
