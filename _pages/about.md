@@ -34,72 +34,15 @@ I am open to research collaborations. If my research or ideas resonate with you,
 
 # 📝 Publications 
 
-<div class="paper-box">
-    <div class="paper-box-image">
-        <div class="badge">CVPR 2026</div>
-        <img src="images/phasewin.png" alt="Paper Teaser">
-    </div>
-    
-    <div class="paper-box-text">
-        <!-- 纯文本标题 -->
-        <h3 class="paper-title"><PhaseWin Search Framework Enable Efficient Object-Level Interpretation/h3>
-        
-        <!-- 作者 -->
-        <div class="authors">
-            <strong>Zihan Gu</strong>, Ruoyu Chen, Junchi Zhang, Yue Hu, Hua Zhang, Xiaochun Cao
-        </div>
-        
-        <!-- 三个链接 -->
-        <div class="paper-links">
-            <a href="https://project-page.com" class="icon-link" target="_blank">
-                <i class="fas fa-globe"></i> <span>Project</span>
-            </a>
-            <a href="https://github.com/Qihuai27/phasewin-search" class="icon-link" target="_blank">
-                <i class="fab fa-github"></i> <span>Code</span>
-            </a>
-            <a href="https://arxiv.org/abs/2511.10914" class="icon-link" target="_blank">
-                <i class="fas fa-file-pdf"></i> <span>arXiv</span>
-            </a>
-        </div>
-        
-        <!-- 一句话总结 -->
-        <div class="summary">
-            By conjecturing the decision function of visual models, a near-first-order black-box attribution algorithm is proposed and validated on attribution tasks of object detection and visual grounding.
-        </div>
-    </div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class="paper-box">
-    <div class="paper-box-image">
-        <div class="badge">ICLR 2026</div>
-        <img src="images/deposit.png" alt="Paper Teaser">
-    </div>
-    
-    <div class="paper-box-text">
-        <!-- 纯文本标题 -->
-        <h3 class="paper-title"><Deconstructing Positional Information: From Attention Logits to Training Biases/h3>
-        
-        <!-- 作者 -->
-        <div class="authors">
-            <strong>Zihan Gu</strong>, Ruoyu Chen, Han Zhang, Hua Zhang, Yue Hu
-        </div>
-        
-        <!-- 三个链接 -->
-        <div class="paper-links">
-            <a href="https://project-page.com" class="icon-link" target="_blank">
-                <i class="fas fa-globe"></i> <span>Project</span>
-            </a>
-            <a href="https://github.com/Qihuai27/Deposit-Pattern-Research" class="icon-link" target="_blank">
-                <i class="fab fa-github"></i> <span>Code</span>
-            </a>
-            <a href="https://arxiv.org/abs/2505.13027" class="icon-link" target="_blank">
-                <i class="fas fa-file-pdf"></i> <span>arXiv</span>
-            </a>
-        </div>
-        
-        <!-- 一句话总结 -->
-        <div class="summary">
-            By using the expression of position encoding applied to attention logits, we conjectured the inherent characteristic of RoPE during the training phase: the deposit-pattern, and designed experiments to verify it.
-        </div>
-    </div>
+**Deep Residual Learning for Image Recognition**
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[🌐 Project](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) &nbsp;&nbsp; [🐙 Code](https://github.com) &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/1512.03385)
+
+提出了深度残差网络（ResNet），通过引入跳跃连接解决深层网络的梯度消失问题，使得训练超过100层的网络成为可能。
+</div>
 </div>
