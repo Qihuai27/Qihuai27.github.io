@@ -19,13 +19,17 @@ redirect_from:
 
 Hi, I am Zihan Gu (顾子涵), a Ph.D. candidate in Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), working with Prof. Yue Hu and Hua Zhang. I received my Bachelor of Science degree in Mathematics and Applied Mathematics from Fudan University. My current research interests include interpretable AI, pre-training and post-training of multimodal models, and Diffusion LLM.
 
-My research focuses on developing algorithms and their principles that can be used for interpretable attribution, analyzing the hidden layer states in the model training and inference process from a symbolic perspective, and applying these theories to model pre-training, post-training, and incremental training.
+My research centers on the development of algorithms and theoretical foundations for interpretable attribution. I investigate hidden-layer representations throughout training and inference from a symbolic and structural perspective, and apply these insights to pre-training, post-training, and continual learning.
 
-My core pursuit is to apply theoretical models to improve model capabilities. Theoretically, I trace this back to two main approaches: firstly, studying the physics of AI—that is, what kind of model will exhibit what kind of capabilities on what kind of data; secondly, studying the decision-making interpretation pathways of the model, including the model's main computational loops and the dependence of model decisions on inputs. The former provides general insights that can be used to improve training strategies, while the latter provides effective regularization schemes. I believe that all the black-box behaviors of a model, especially the generalization of higher-order capabilities, are in a state of decoupling or awaiting decoupling. Successful decoupling will drive the further development of artificial intelligence systems.
+My primary objective is to enhance model capabilities through principled theoretical frameworks. This pursuit follows two complementary directions.
+First, I study the physics of AI: what classes of models give rise to what capabilities under which data regimes. This line of inquiry aims to provide general laws that inform training strategies.
+Second, I analyze the model’s decision-making pathways, including its dominant computational loops and the dependency structure between inputs and outputs. This perspective leads to effective forms of regularization grounded in interpretability.
 
-In addition, I have a thorough understanding of linguistics and classical Chinese poetry. My personal poetry works can be found on the website <https://huaiqi.site>. If you are interested, please feel free to contact me.
+I view many black-box behaviors—particularly the emergence and generalization of higher-order capabilities—as phenomena that are currently entangled but, in principle, decouplable. Achieving such decoupling is a key step toward the next generation of AI systems.
 
-I am open to research collaborations. If my research or ideas resonate with you, or if you have any interesting thoughts to share, please don't hesitate to contact me.
+Beyond machine learning, I have a strong background in linguistics and classical Chinese poetry. A selection of my own poetry is available at <https://huaiqi.site>.
+
+I am open to research collaborations. If these directions resonate with your interests, or if you would like to exchange ideas, please feel free to get in touch.
 
 
 
@@ -43,7 +47,7 @@ I am open to research collaborations. If my research or ideas resonate with you,
 
 **Zihan Gu**, Ruoyu Chen, Junchi Zhang, Yue Hu, Hua Zhang, Xiaochun Cao
 
-[🌐 Project](https://project-page.com) &nbsp;&nbsp; [🐙 Code](https://github.com/Qihuai27/phasewin-search) &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2511.10914)
+[🌐 Project](https://Qihuai27.github.io/phasewin) &nbsp;&nbsp; [🐙 Code](https://github.com/Qihuai27/phasewin-search) &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2511.10914)
 
 By conjecturing the decision function of visual models, a near-first-order black-box attribution algorithm is proposed and validated on attribution tasks of object detection and visual grounding.
 </div>

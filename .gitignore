@@ -1,5 +1,5 @@
 _site/
 push.sh
 .DS_Store
-phasewin
-phasewin/
+vendor
+vendor/
