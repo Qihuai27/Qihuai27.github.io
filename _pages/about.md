@@ -60,7 +60,7 @@ By conjecturing the decision function of visual models, a near-first-order black
 
 **Zihan Gu**, Ruoyu Chen, Han Zhang, Hua Zhang, Yue Hu
 
-[🌐 Project](https://project-page.com) &nbsp;&nbsp; [🐙 Code](https://github.com/Qihuai27/Deposit-Pattern-Research) &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2505.13027)
+[🌐 Project](https://Qihuai27.github.io/deposit) &nbsp;&nbsp; [🐙 Code](https://github.com/Qihuai27/Deposit-Pattern-Research) &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2505.13027)
 
 By using the expression of position encoding applied to attention logits, we conjectured the inherent characteristic of RoPE during the training phase: the deposit-pattern, and designed experiments to verify it.
 </div>
